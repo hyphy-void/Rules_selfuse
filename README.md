@@ -4,4 +4,4 @@
 
 Dns over proxy
 
-![qr-code](F:\code\shadow_Rules\assets\qr-code.png)
+![qr-code](assets\qr-code.png)
